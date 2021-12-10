@@ -89,7 +89,7 @@ namespace lab2_1_6
             int fakt = 2;
             double cos = 1;
             int i = 2;
-            int z = -1;
+            int z = 1;
             while (s / fakt >= q)
             {
                 cos = cos + z * s / fakt;
